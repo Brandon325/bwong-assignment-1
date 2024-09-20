@@ -1,1 +1,1 @@
-# bwong-assignment-1
+#CS506assignment1
