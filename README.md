@@ -1,1 +1,1 @@
-#CS506assignment1
+CS506assignment1
